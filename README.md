@@ -1,3 +1,4 @@
+<img width="834" height="670" alt="Photo_Wall_Calendar_Ver01_Lite" src="https://github.com/user-attachments/assets/08051359-f16e-479b-908c-b0ae7f5d0e32" />
 # MODEL 01 LITE — Photo Wall Calendar (Python)
 
 A lightweight, **English-only**, Gregorian A4 photo wall-calendar generator for Windows and other Python desktop environments. **No Arabic text or Hijri dates.**
